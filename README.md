@@ -1,6 +1,6 @@
 # Collaborative-Filtering
 
-Implemented..
+#Implemented..
 
 Item-Item based method (itemitem.py)
 
